@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>Mpir.NET</id>
+    <version>0.4.0</version>
+    <authors>MPIR library by the MPIR team, .NET wrapper by Sergey Bochkanov, .NET high level wrapper based on Emil Stefanov's GMP wrapper, Modifications and NuGet packaging by John Reynolds</authors>
+    <owners>MPIR library by the MPIR team, .NET wrapper by Sergey Bochkanov, .NET high level wrapper based on Emil Stefanov's GMP wrapper, Modifications and NuGet packaging by John Reynolds</owners>
+    <licenseUrl>http://github.com/wezeku/Mpir.NET/blob/master/LICENSE.txt</licenseUrl>
+    <projectUrl>http://wezeku.github.io/Mpir.NET</projectUrl>
+    <iconUrl>http://wezeku.github.io/Mpir.NET/img/logo.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Mpir.NET lets you use the MPIR library, which is a GMP fork for Windows, from .NET languages. The current version incorporates 32- and 64-bit builds of MPIR 2.7.0.</description>
+    <summary>MPIR library wrapper for .NET.</summary>
+    <releaseNotes>Fixed PowerMod bug.
+Upgraded to .NET 4.5</releaseNotes>
+    <copyright>Copyright 2014-2016</copyright>
+    <tags>MPIR GMP multi precision biginteger bigint</tags>
+    <frameworkAssemblies>
+      <frameworkAssembly assemblyName="System.Numerics" targetFramework=".NETFramework4.0" />
+    </frameworkAssemblies>
+    <references>
+      <reference file="FsMpir.NET.dll" />
+      <reference file="Mpir.NET.dll" />
+    </references>
+  </metadata>
+</package>
