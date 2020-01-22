@@ -57,3 +57,17 @@ C:\Users\david\Desktop\RSA code\RSA code\obj\Debug\RSA code.csprojAssemblyRefere
 C:\Users\david\Desktop\RSA code\RSA code\obj\Debug\RSA code.csproj.CopyComplete
 C:\Users\david\Desktop\RSA code\RSA code\obj\Debug\RSA code.exe
 C:\Users\david\Desktop\RSA code\RSA code\obj\Debug\RSA code.pdb
+C:\Users\david\Documents\GitHub\RSA_Algorithm\RSA code\bin\Debug\xmpir32.dll
+C:\Users\david\Documents\GitHub\RSA_Algorithm\RSA code\bin\Debug\xmpir64.dll
+C:\Users\david\Documents\GitHub\RSA_Algorithm\RSA code\bin\Debug\RSA code.exe.config
+C:\Users\david\Documents\GitHub\RSA_Algorithm\RSA code\bin\Debug\RSA code.exe
+C:\Users\david\Documents\GitHub\RSA_Algorithm\RSA code\bin\Debug\RSA code.pdb
+C:\Users\david\Documents\GitHub\RSA_Algorithm\RSA code\bin\Debug\FsMpir.NET.dll
+C:\Users\david\Documents\GitHub\RSA_Algorithm\RSA code\bin\Debug\Mpir.NET.dll
+C:\Users\david\Documents\GitHub\RSA_Algorithm\RSA code\bin\Debug\FSharp.Core.dll
+C:\Users\david\Documents\GitHub\RSA_Algorithm\RSA code\bin\Debug\FsMpir.NET.pdb
+C:\Users\david\Documents\GitHub\RSA_Algorithm\RSA code\bin\Debug\Mpir.NET.pdb
+C:\Users\david\Documents\GitHub\RSA_Algorithm\RSA code\obj\Debug\RSA code.csprojAssemblyReference.cache
+C:\Users\david\Documents\GitHub\RSA_Algorithm\RSA code\obj\Debug\RSA code.csproj.CopyComplete
+C:\Users\david\Documents\GitHub\RSA_Algorithm\RSA code\obj\Debug\RSA code.exe
+C:\Users\david\Documents\GitHub\RSA_Algorithm\RSA code\obj\Debug\RSA code.pdb
